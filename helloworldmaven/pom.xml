@@ -73,4 +73,12 @@
     </pluginManagement>
   </build>
   <packaging>pom</packaging>
+  <modules>
+  	<module>helloworldmvc.contract</module>
+  	<module>helloworldmvc.view</module>
+  	<module>helloworldmvc.main</module>
+  	<module>helloworldmvc.controller</module>
+  	
+  	<module>helloworldmvc.model</module>
+  </modules>
 </project>
